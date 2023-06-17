@@ -1,5 +1,5 @@
 # react-native-bluetooch-escpos-printer
-
+This library supports new react-native versions
 React-Native plugin for the bluetooth ESC/POS & TSC printers.
 
 Any questions or bug please raise a issue.
