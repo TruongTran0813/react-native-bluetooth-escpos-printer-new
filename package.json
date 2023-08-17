@@ -19,6 +19,6 @@
     "react-native": ">=0.55.4"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@TruongTran0813"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
