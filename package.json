@@ -17,8 +17,5 @@
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.55.4"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
