@@ -13,7 +13,12 @@
     "Bluetooth",
     "Printer"
   ],
-  "author": "janus j k lu",
+  "repository": "https://github.com/TruongTran0813/react-native-bluetooth-escpos-printer-new",
+  "author": "Tran Van Truong <truong.tran0813@gmail.com> (https://github.com/TruongTran0813)",
+  "bugs": {
+    "url": "https://github.com/TruongTran0813/react-native-bluetooth-escpos-printer-new/issues"
+  },
+  "homepage": "https://github.com/TruongTran0813/react-native-bluetooth-escpos-printer-new#readme",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.55.4"

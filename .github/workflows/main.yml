@@ -19,6 +19,6 @@ jobs:
           # Defaults to the user or organization that owns the workflow file
           
       - name: Publish package on NPM 📦
-        run: npm publish
+        run: npm publish --force
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
