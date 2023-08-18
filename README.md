@@ -8,7 +8,7 @@ Any questions or bug please raise a issue.
 
 #May support Android /IOS
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/januslo/react-native-bluetooth-escpos-printer-new/master/LICENSE) [![npm version](https://badge.fury.io/js/react-native-bluetooth-escpos-printer-new.svg)](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer-new)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/TruongTran0813/react-native-bluetooth-escpos-printer-new/master/LICENSE) [![npm version](https://badge.fury.io/js/react-native-bluetooth-escpos-printer-new.svg)](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer-new)
 
 ## Installation
 ### Step 1 ###
@@ -19,7 +19,7 @@ npm install react-native-bluetooth-escpos-printer-new --save
 
 Or install via github
 ```bash
-npm install https://github.com/januslo/react-native-bluetooth-escpos-printer-new.git --save
+npm install https://github.com/TruongTran0813/react-native-bluetooth-escpos-printer-new.git --save
 ```
 
 ### Step2 ###
